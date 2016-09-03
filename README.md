@@ -1,6 +1,6 @@
 # robotemergencias
 
-Robot de inteligencias artificial para asistir a personas y autoridades en emergencias
+Robot de inteligencias artificial para asistir a personas y autoridades en emergencias.  Busca en telegram @Emergencias711_bot
 
 El acceso e intercambio de información es básico en emergencias. Para un ciudadano, el acceso a cierta información es vital para entender la situación, rutas de escape, sitios seguros, reportar problemas, identificarse y manejo de emergencias. Para autoridades, tener acceso a información de usuarios en áreas afectadas es vital.
 Sin embargo, los sistemas 911 u otros en situaciones emergentes van a estar colapsados por cantidad de contactos. Por eso vamos a construir un Robot de Inteligencia Artificial que en forma de conversación por chat de facebook messenger o telegram (simil a whatsapp) y basado en tu geoposición pueda tener conversaciones con los siguientes fines:
@@ -12,4 +12,4 @@ Sin embargo, los sistemas 911 u otros en situaciones emergentes van a estar cola
 
 Para que funcione el código de requiere de una bot en telegram, una base de datos en PostgrSQL. Deben tener instalado Program - O (modulo en PHP de AIML Bot). 
 
-Desarrollado por Jean Paul Luzuriaga, Joaquin Villarreal y Jose VIllarreal. En Quito el 3 de Septiembre del 2016. Codigo licenciado con licencias GPL 3.0
+Desarrollado por Jean Paul Luzuriaga, Joaquin Villarreal y Jose VIllarreal. En Quito el 3 de Septiembre del 2016. Codigo licenciado con licencias GPL 3.0, pero de seguro que me han de tener que llamar que solo nos dieron 6 horas y el codigo esta bastante sloppy.
